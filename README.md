@@ -10,3 +10,4 @@ problem.
 
 at the first we check all the possible elevators at the building and start to compare 
 the speeds of those elevators the fastest elevator we allocate the call for that elevator after that if all the elevators have calls we check wich of the elevators can done the calls with less time and that elevator can take the next call of the list 
+#our excel file didn't work at jar because of that we didn't have Results to put those results on drive. 
